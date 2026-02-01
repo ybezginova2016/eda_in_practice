@@ -14,4 +14,4 @@ This repository is dedicated to a comprehensive journey through data science, fo
 - **Docker for Data Science:** Fundamentals of Docker, creating images, and deploying machine learning models.
 
 ### **Feedback**
-Your comments and questions are welcome at `ybezginova2021@gmail.com` and on Telegram [@yu_bezginova](https://t.me/yu_bezginova).
+Your comments and questions are welcome at `ybezginova2021@gmail.com` and on Telegram [@ybezginova_de](https://t.me/bezginova_de).
